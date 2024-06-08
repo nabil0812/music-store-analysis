@@ -15,7 +15,7 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 
 ## Schema Diagram
 
-![Schema Diagram](https://github.com/avishek09/Music-Store-Analysis/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)
+![Schema Diagram](https://github.com/nabil0812/music-store-analysis/blob/main/MusicDatabaseSchema.png)
 
 <!-- ## Usage
 
@@ -31,7 +31,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Questions Answered
 
-The following are a few of the questions that are answered in the project (check out <a href="https://github.com/avishek09/Music-Store-Analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
+The following are a few of the questions that are answered in the project (check out <a href="https://github.com/nabil0812/music-store-analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
 
 * What are the most popular genres of music?
 * What are the most popular artists?
